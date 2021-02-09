@@ -54,7 +54,6 @@ h3{
     max-width: 100%;
 }
 
-
 .card{
     border-color: red;
 }
@@ -106,4 +105,8 @@ a{
     position: relative;
 }
 
+@media screen and (max-width: 1700px) {
 
+    #pixelimage {display:none;}
+    #hiddenbutton {display:none;}
+}
