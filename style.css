@@ -105,6 +105,7 @@ a{
     position: relative;
 }
 
+
 @media screen and (max-width: 1700px) {
 
     #pixelimage {display:none;}
